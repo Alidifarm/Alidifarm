@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alidifarm
 - 👀 I’m interested in coding and improve my skills
-- 🌱 I’m currently learning a better level of english language, php language
+- 🌱 I’m currently learning some code
 - 📫 How to reach me: text me here, in github, with a simple message
 
 <!---
